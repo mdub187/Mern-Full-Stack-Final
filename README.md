@@ -1,4 +1,3 @@
-{
   # Title
   Mern Full Stack Book Search And Authentication
   # Desription
@@ -18,4 +17,4 @@
   # Email
   maweeks.91@gmail.com
   #
-  }
+  
